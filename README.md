@@ -27,6 +27,7 @@ The dataset includes information on:
 # Clone the repository
 git clone [https://github.com/your-username/Traffic-Accident-Analysis-Dashboard.git](https://github.com/prethish004/Traffic-Accident-Analysis-Dashboard.git)
 cd Traffic-Accident-Analysis-Dashboard
+bash```
 
 1.Download the dataset from the provided Google Drive link
 2.Open Power BI and load the .pbix file
